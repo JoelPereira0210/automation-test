@@ -1,0 +1,82 @@
+[
+  {
+    "couponName": "SUMMER50",
+    "discount": 50,
+    "validity": "June 30, 2025",
+    "maxUsage": -10,
+    "societyId": "SunnySide Residency",
+    "description": "Flat 50% off on all purchases."
+  },
+  {
+    "couponName": "WELCOME20",
+    "discount": 200,
+    "validity": "December 31, 2025",
+    "maxUsage": 200,
+    "societyId": "Bliss Haven Heights",
+    "description": "20% discount for new users."
+  },
+  {
+    "couponName": "FE",
+    "discount": 30,
+    "validity": "October 31, 2025",
+    "maxUsage": 150,
+    "societyId": "Maplewood Enclave",
+    "description": "30% off on festival season purchases."
+  },
+  {
+    "couponName": "LOYALTY10",
+    "discount": 10,
+    "validity": "December 31, 2025",
+    "maxUsage": 500,
+    "societyId": "Tranquil Towers",
+    "description": "1"
+  },
+  {
+    "couponName": "FLASH75",
+    "discount": 75,
+    "validity": "March 15, 2025",
+    "maxUsage": 50,
+    "societyId": "Skyline Meadows",
+    "description": "Limited time 75% off on select items."
+  },
+  {
+    "couponName": "NEWYEAR25",
+    "discount": 25,
+    "validity": "January 10, 2026",
+    "maxUsage": 300,
+    "societyId": "Evergreen Residency",
+    "description": "Celebrate the new year with 25% off."
+  },
+  {
+    "couponName": "STUDENT15",
+    "discount": 15,
+    "validity": "September 1, 2025",
+    "maxUsage": 1000,
+    "societyId": "Scholars' Nest",
+    "description": "Exclusive 15% discount for students."
+  },
+  {
+    "couponName": "WEEKEND40",
+    "discount": 40,
+    "validity": "Every Sunday until December 2025",
+    "maxUsage": 250,
+    "societyId": "Zenith Heights",
+    "description": "40% off on weekend special deals."
+  },
+  {
+    "couponName": "REFER5",
+    "discount": 5,
+    "validity": "Ongoing",
+    "maxUsage": 999,
+    "societyId": "The Grand Retreat",
+    "description": "Get 5% off for every successful referral."
+  },
+  {
+    "couponName": "EXCLUSIVE60",
+    "discount": 60,
+    "validity": "July 15, 2025",
+    "maxUsage": 75,
+    "societyId": "Royal Crest Society",
+    "description": "Exclusive 60% discount for VIP members."
+  }
+]

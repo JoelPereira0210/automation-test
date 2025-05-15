@@ -1,0 +1,142 @@
+[
+  {
+    "planName": "P",
+    "description": "Basic subscription plan for small groups",
+    "duration": "12",
+    "maxUsers": "50",
+    "amount": "500"
+  },
+  {
+    "planName": "Plan Invalid A",
+    "description": "Negative duration",
+    "duration": "-5",
+    "maxUsers": "50",
+    "amount": "500"
+  },
+  {
+    "planName": "Plan B",
+    "description": "Intermediate plan with extended duration",
+    "duration": "24",
+    "maxUsers": "100",
+    "amount": "0"
+  },
+  {
+    "planName": "Plan Invalid B",
+    "description": "E",
+    "duration": "999",
+    "maxUsers": "100",
+    "amount": "10000000000000"
+  },
+  {
+    "planName": "Plan C",
+    "description": "Premium subscription for large organizations",
+    "duration": "36",
+    "maxUsers": "200",
+    "amount": "2000"
+  },
+  {
+    "planName": "Plan Invalid C",
+    "description": "Negative max users",
+    "duration": "12",
+    "maxUsers": "-10",
+    "amount": "1000"
+  },
+  {
+    "planName": "Plan D",
+    "description": "Affordable plan for students and freelancers",
+    "duration": "6",
+    "maxUsers": "20",
+    "amount": "250"
+  },
+  {
+    "planName": "Plan Invalid D",
+    "description": "Non-numeric max users",
+    "duration": "12",
+    "maxUsers": "ABC",
+    "amount": "500"
+  },
+  {
+    "planName": "Plan E",
+    "description": "Corporate plan with advanced features",
+    "duration": "48",
+    "maxUsers": "500",
+    "amount": "5000"
+  },
+  {
+    "planName": "Plan Invalid E",
+    "description": "Negative amount",
+    "duration": "12",
+    "maxUsers": "50",
+    "amount": "-200"
+  },
+  {
+    "planName": "Plan F",
+    "description": "Budget-friendly plan for small businesses",
+    "duration": "-2",
+    "maxUsers": "75",
+    "amount": "75"
+  },
+  {
+    "planName": "Plan Invalid F",
+    "description": "Zero amount",
+    "duration": "24",
+    "maxUsers": "100",
+    "amount": "0"
+  },
+  {
+    "planName": "Plan G",
+    "description": "Lifetime membership plan",
+    "duration": "99",
+    "maxUsers": "500",
+    "amount": "10000"
+  },
+  {
+    "planName": "Plan Invalid G",
+    "description": "Non-numeric amount",
+    "duration": "24",
+    "maxUsers": "100",
+    "amount": "XYZ"
+  },
+  {
+    "planName": "Plan H",
+    "description": "Short-term trial plan",
+    "duration": "3",
+    "maxUsers": "10",
+    "amount": "100"
+  },
+  {
+    "planName": "Plan Invalid H",
+    "description": "Missing plan name",
+    "duration": "12",
+    "maxUsers": "50",
+    "amount": "500"
+  },
+  {
+    "planName": "Plan I",
+    "description": "Non-profit organization plan",
+    "duration": "60",
+    "maxUsers": "1000",
+    "amount": "1100"
+  },
+  {
+    "planName": "Plan Invalid I",
+    "description": "Missing description",
+    "duration": "-12",
+    "maxUsers": "50",
+    "amount": "500"
+  },
+  {
+    "planName": "Plan J",
+    "description": "Enterprise-level plan with priority support",
+    "duration": "72",
+    "maxUsers": "2000",
+    "amount": "15000000000"
+  },
+  {
+    "planName": "Plan Invalid J",
+    "description": "Missing duration",
+    "duration": "",
+    "maxUsers": "50",
+    "amount": "500"
+  }
+]
