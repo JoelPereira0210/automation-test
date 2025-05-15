@@ -1,0 +1,18 @@
+[
+  {
+    "cardTitle": "Amazing Slider 1",
+    "cardSubTitle": "Best in Class",
+    "cardDescription": "This is a detailed description of the first landing slider.",
+    "highlightText": "New Arrival",
+    "source": "Official Website",
+    "linkedLandingCardId": "12345"
+  },
+  {
+    "cardTitle": "Amazing Slider 2",
+    "cardSubTitle": "Exclusive",
+    "cardDescription": "This is a detailed description of the second landing slider.",
+    "highlightText": "Limited Edition",
+    "source": "Company Blog",
+    "linkedLandingCardId": "67890"
+  }
+]

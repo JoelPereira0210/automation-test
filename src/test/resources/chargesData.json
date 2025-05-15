@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Maintenance Fee",
+        "description": "Monthly maintenance charge for society facilities.",
+        "dueDate": "05/23/2025",
+        "amount": 2000,
+        "feeType": "Recurring"
+    },
+    {
+        "name": "Parking Charges",
+        "description": "Monthly parking fees for reserved slots.",
+        "dueDate": "04/23/2025",
+        "amount": 500,
+        "feeType": "One-time"
+    }
+]

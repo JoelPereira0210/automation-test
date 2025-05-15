@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Generic",
+    "cardTitle": "Test Card 1",
+    "cardSubTitle": "Subtitle 1",
+    "cardDescription": "This is the first test description.",
+    "buttonText": "Click Me 1"
+  },
+  {
+    "type": "Generic",
+    "cardTitle": "Test Card 2",
+    "cardSubTitle": "Subtitle 2",
+    "cardDescription": "This is the second test description.",
+    "buttonText": "Click Me 2"
+  },
+  {
+    "type": "Specific",
+    "cardTitle": "Test Card 3",
+    "cardSubTitle": "Subtitle 3",
+    "cardDescription": "This is the third test description.",
+    "buttonText": "Click Me 3"
+  },
+  {
+    "type": "Generic",
+    "cardTitle": "Test Card 4",
+    "cardSubTitle": "Subtitle 4",
+    "cardDescription": "This is the fourth test description.",
+    "buttonText": "Click Me 4"
+  },
+  {
+    "type": "Specific",
+    "cardTitle": "Test Card 5",
+    "cardSubTitle": "Subtitle 5",
+    "cardDescription": "This is the fifth test description.",
+    "buttonText": "Click Me 5"
+  }
+]
